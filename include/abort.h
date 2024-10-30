@@ -1,6 +1,6 @@
 #pragma once
 
-#include "namespace.hpp"
+#include "namespace.h"
 
 namespace TOPNSPC {
   extern void __abort(const char *file, const int line, const char *func);
