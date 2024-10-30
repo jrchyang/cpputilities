@@ -84,7 +84,7 @@ if(CPPUTILITIES_BUILD_TESTS)
   add_executable(cpputilities_unittest "")
   target_sources(cpputilities_unittest
     PRIVATE
-      "test/test_macros.cpp"
+      "test/test_common.cpp"
   )
   target_link_libraries(cpputilities_unittest cpputilities gmock_main gtest)
 
