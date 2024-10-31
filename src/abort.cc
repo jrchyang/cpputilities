@@ -9,8 +9,8 @@
 #include <sstream>
 #include <string>
 
-#include "namespace.hpp"
-#include "abort.hpp"
+#include "namespace.h"
+#include "abort.h"
 
 namespace TOPNSPC {
 

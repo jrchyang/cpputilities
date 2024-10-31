@@ -35,7 +35,7 @@ include_directories(${CMAKE_SOURCE_DIR}/include)
 
 # 设置库的源文件
 set(SOURCES
-  src/abort.cpp
+  src/abort.cc
 )
 
 # 创建动态库
